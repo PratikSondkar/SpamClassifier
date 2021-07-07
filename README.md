@@ -1,4 +1,3 @@
-# SpamClassifier
 
 SMS Spam Collection
 -------------------------
