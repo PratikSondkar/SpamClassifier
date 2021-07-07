@@ -1,6 +1,6 @@
 # SpamClassifier
 
-SMS Spam Collection v.1
+SMS Spam Collection
 -------------------------
 
 1. DESCRIPTION
